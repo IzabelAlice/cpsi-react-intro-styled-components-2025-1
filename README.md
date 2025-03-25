@@ -1,7 +1,7 @@
-# Repositório para atividade de aprendizado de useState
+# Repositório para atividade de aprendizado de Styled Components
 
 ## Informação iniciais
 
 - **vídeos**:
-  - [Explorando useState no React (conceito e importância)](https://youtu.be/mY9MLdifqe0?si=8YqkybXX7xTQqo23)
-  - [Explorando React Hooks: useState e seleção de arquivos de vídeo](https://youtu.be/pyPiIsuIvnE?si=LIl1yPH_xw7GnPCG)
+  - (Utilizando Styled Components (CSS-in-JS) no ReactJS e React Native)[https://youtu.be/R3S8DEzEn6s?si=clz6le8MR7QTX6cI]
+- https://styled-components.com/
